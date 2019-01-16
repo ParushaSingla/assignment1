@@ -24,4 +24,3 @@ public class View {
 		obj.input();
 	}
 }
-
